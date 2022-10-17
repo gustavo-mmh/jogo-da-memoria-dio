@@ -1,5 +1,4 @@
 # jogo-da-memoria-dio
-Criação de um Jogo da memória utilizando HTML, CSS e Javascript.   O jogo da memória criado tem uma temática voltada ao futebol, nele você deve encontrar o par de simbolo dos clubes brasileiros. 
 
 ## 📌 Sobre este Projeto
 
